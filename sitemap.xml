@@ -2,45 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://simhadri-g.github.io/hive/</loc>
+    <loc>https://simhadri-g.github.io/hive-site-hugo/</loc>
     <lastmod>2022-09-14T01:23:03+05:30</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://simhadri-g.github.io/hive/community/</loc>
+    <loc>https://simhadri-g.github.io/hive-site-hugo/community/</loc>
     <lastmod>2022-09-14T01:23:03+05:30</lastmod>
   </url><url>
-    <loc>https://simhadri-g.github.io/hive/community/people/</loc>
+    <loc>https://simhadri-g.github.io/hive-site-hugo/community/people/</loc>
     <lastmod>2022-09-14T01:23:03+05:30</lastmod>
   </url><url>
-    <loc>https://simhadri-g.github.io/hive/community/issuetracking/</loc>
+    <loc>https://simhadri-g.github.io/hive-site-hugo/community/issuetracking/</loc>
     <lastmod>2022-09-14T01:05:14+05:30</lastmod>
   </url><url>
-    <loc>https://simhadri-g.github.io/hive/community/mailinglist/</loc>
+    <loc>https://simhadri-g.github.io/hive-site-hugo/community/mailinglist/</loc>
     <lastmod>2022-09-14T01:01:04+05:30</lastmod>
   </url><url>
-    <loc>https://simhadri-g.github.io/hive/developement/</loc>
+    <loc>https://simhadri-g.github.io/hive-site-hugo/developement/</loc>
     <lastmod>2022-09-14T00:34:39+05:30</lastmod>
   </url><url>
-    <loc>https://simhadri-g.github.io/hive/developement/versioncontrol/</loc>
+    <loc>https://simhadri-g.github.io/hive-site-hugo/developement/versioncontrol/</loc>
     <lastmod>2022-09-14T00:34:39+05:30</lastmod>
   </url><url>
-    <loc>https://simhadri-g.github.io/hive/general/</loc>
+    <loc>https://simhadri-g.github.io/hive-site-hugo/general/</loc>
     <lastmod>2022-09-13T19:35:56+05:30</lastmod>
   </url><url>
-    <loc>https://simhadri-g.github.io/hive/general/privacypolicy/</loc>
+    <loc>https://simhadri-g.github.io/hive-site-hugo/general/privacypolicy/</loc>
     <lastmod>2022-09-13T19:35:56+05:30</lastmod>
   </url><url>
-    <loc>https://simhadri-g.github.io/hive/general/downloads/</loc>
+    <loc>https://simhadri-g.github.io/hive-site-hugo/general/downloads/</loc>
     <lastmod>2022-09-13T19:16:15+05:30</lastmod>
   </url><url>
-    <loc>https://simhadri-g.github.io/hive/docs/</loc>
+    <loc>https://simhadri-g.github.io/hive-site-hugo/docs/</loc>
     <lastmod>2022-08-29T04:01:38+05:30</lastmod>
   </url><url>
-    <loc>https://simhadri-g.github.io/hive/docs/javadocs/</loc>
+    <loc>https://simhadri-g.github.io/hive-site-hugo/docs/javadocs/</loc>
     <lastmod>2022-08-29T04:01:38+05:30</lastmod>
   </url><url>
-    <loc>https://simhadri-g.github.io/hive/categories/</loc>
+    <loc>https://simhadri-g.github.io/hive-site-hugo/categories/</loc>
   </url><url>
-    <loc>https://simhadri-g.github.io/hive/tags/</loc>
+    <loc>https://simhadri-g.github.io/hive-site-hugo/tags/</loc>
   </url>
 </urlset>

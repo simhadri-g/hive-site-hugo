@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hive Site</title>
-    <link>https://simhadri-g.github.io/hive/tags/</link>
+    <link>https://simhadri-g.github.io/hive-site-hugo/tags/</link>
     <description>Recent content in Tags on Hive Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://simhadri-g.github.io/hive/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://simhadri-g.github.io/hive-site-hugo/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
