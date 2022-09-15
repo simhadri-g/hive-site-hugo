@@ -37,7 +37,7 @@ function draw() {
     ctx.beginPath();
     ctx.arc(s.x, s.y, s.radius, 0, 2 * Math.PI);
     ctx.fill();
-    ctx.fillStyle = 'white';
+    ctx.fillStyle = 'grey';
     ctx.stroke();
   }
 
@@ -55,7 +55,7 @@ function draw() {
     }
   }
   ctx.lineWidth = 0.1;
-  ctx.strokeStyle = 'white';
+  ctx.strokeStyle = 'grey';
   ctx.stroke();
 }
 
