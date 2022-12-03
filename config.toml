@@ -1,4 +1,4 @@
-baseURL = 'https://simhadri-g.github.io/hive-site'
+baseURL = 'https://hive.apache.org/'
 languageCode = 'en-us'
 title = 'Hive Site'
 theme = 'hive'
@@ -22,6 +22,7 @@ theme = 'hive'
 
 [params.navbar]
     release = "/general/downloads"
+    hcatalog = "/general/hcatalogdownloads/"
     javaDocs = "/docs/javadocs/"
     languageManual = "https://cwiki.apache.org/confluence/display/Hive/LanguageManual"
     wiki = "https://cwiki.apache.org/confluence/display/Hive/"
