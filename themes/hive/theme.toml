@@ -5,13 +5,13 @@ name = "Hive"
 license = "APACHE LICENSE, VERSION 2.0"
 licenselink = "https://www.apache.org/licenses/LICENSE-2.0.html"
 description = ""
-homepage = "https://hive.apache.org/"
+homepage = "http://example.com/"
 tags = []
 features = []
 min_version = "0.41.0"
 
 [author]
-  name = "simhadri-g"
+  name = "hive"
   homepage = ""
 
 # If porting an existing theme
