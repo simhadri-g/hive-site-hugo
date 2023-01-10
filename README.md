@@ -23,10 +23,10 @@ It's built with Hugo and hosted at https://hive.apache.org.
 ### Build and Run Locally
 
 * Clone this repository.
-* Install [hugo]:
+* Install [hugo] on macOS:
 
  ```brew install hugo```
-
+* For other OS please refer: [hugo-install] 
 * To verify your new install:
 
 ```hugo version```
@@ -70,3 +70,4 @@ Commit and push the changes to the main branch. The site is automatically deploy
 
 
 [hugo]: https://gohugo.io/getting-started/quick-start/
+[hugo-install]: https://gohugo.io/installation/

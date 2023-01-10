@@ -34,4 +34,4 @@ following:
 * Check the [user mailing list][mailingLists], both by searching the archives and by asking questions.
 
 [JIRA]:https://issues.apache.org/jira/browse/HIVE
-[mailingLists]: /community/mailinglist/
+[mailingLists]: /community/mailinglists/
